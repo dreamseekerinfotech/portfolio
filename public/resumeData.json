@@ -83,8 +83,20 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "70%"
       },
+      {
+        "name": "Vuejs",
+        "level": "80%"
+      },
+      {
+        "name": "Nextjs",
+        "level": "65%"
+      },
+      {
+        "name": "tailwindcss",
+        "level": "80%"
+      }
       {
         "name": "PHP",
         "level": "100%"
@@ -108,18 +120,6 @@
       {
         "name": "MongoDB",
         "level": "65%"
-      },
-      {
-        "name": "Vuejs",
-        "level": "80%"
-      },
-      {
-        "name": "Nextjs",
-        "level": "65%"
-      },
-      {
-        "name": "tailwindcss",
-        "level": "80%"
       }
 
     ]
