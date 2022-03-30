@@ -1,0 +1,161 @@
+{
+  "main": {
+    "name": "Ravi Rajyaguru",
+    "occupation": "Founder of Dreamseeker Infotech",
+    "description": "I'm a full-stack developer who's passionate about solving problems.",
+    "image": "profilepic.png",
+    "bio": "With an experience of over 7+ years as a fullstack developer, I have successfully delivered many projects in different service and product base sectors, With experience in domains like manufacturing, events, pharma, sports, ecommerce, travel , booking, consultancy and many more. I am having experience, starting from project understanding, planning, Design , deployment and Delivery. As a full-stack developer by nature, I always believe in logic not in syntax ( being a RAM, not a hard disk). Because of experience in multiple frontends, backend languages.Hands on experience multiple servers technologies.I can choose which language, database and server will be best suitable for a product along with the cost, time, and future expansion.",
+    "contactmessage": "Let's complete your dreams together!",
+    "email": "dreamseekerinfotech@gmail.com",
+    "phone": "+91 9033794155",
+    "address": {
+      "street": "Ahmedabad",
+      "city": "Gujarat",
+      "state": "India",
+      "zip": "382470"
+    },
+    "website": "http://dreamseekerinfotech.com/",
+    "resumedownload": "/RaviRajyaguru.pdf",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCMMupfd1n1KLi8HJHkkhi5Q",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dreamseekerinfotech",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dsravitech",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dsravitech/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dreamseekerinfotech",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Gujarat Technical University",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "June 2014",
+        "description": "Graduated with First Class"
+      }
+    ],
+    "work": [
+      {
+        "company": "Dreamseeker Infotech",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "I'm a dream specialist focusing on small businesses and platforms, ready to help startups create MVPs and achieve scalability. I also work with fast-growing technology products that are in sports, fantasy gaming, eCommerce, Parenting Applications."
+      },
+      {
+        "company": "VERTILEX WEB SOLUTION PVT. LTD",
+        "title": "Technical Project Manager",
+        "years": "Apr 2016 - Apr 2019",
+        "description": "Life At Vertilex Was Very Challenging at Every step every project,because with very less experience, I actually accepted really tough challenge to handle whole team and every projects. In vertilex After the projects comes in Whole process from decide which technology and language we need to use to deployment of project was my responsibility. "
+      },
+      {
+        "company": "Stepin Solutions",
+        "title": "Senior Software Developer",
+        "years": "Nov 2014 - Mar 2016",
+        "description": "As Per My Performance and dedication towards the work I Got chance to Lead team of juniors and develop Project Independently."
+      },
+      {
+        "company": "Stepin Solutions",
+        "title": "Junior Software Developer",
+        "years": "Jan 2014 - Nov 2014",
+        "description": "As Junior Developer I Was Lucky To have chance to Sit with seniors and give them input DB Design And and Structure on Projects."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "PHP",
+        "level": "100%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name": "Mysql",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "65%"
+      },
+      {
+        "name": "Vuejs",
+        "level": "80%"
+      },
+      {
+        "name": "Nextjs",
+        "level": "65%"
+      },
+      {
+        "name": "tailwindcss",
+        "level": "80%"
+      }
+
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "kidconnect",
+        "category": "",
+        "image": "kidconnect.png",
+        "url": "https://kidconnect.in"
+      },
+      {
+        "title": "Sports Betting",
+        "category": "",
+        "image": "world777.png",
+        "url": "#"
+      },
+      {
+        "title": "Tigerparrot Kids eCommerce Marketplace",
+        "category": "",
+        "image": "tigerparrot.png",
+        "url": "https://www.tigerparrot.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Ravi is great and knows what he's doing, which has the potential of helping us accomplish more. I strongly recommend that Startups and high-traffic sites utilize Ravi.",
+        "user": "Karan Gandhi"
+      },
+      {
+        "text": "Ravi is ready to work on employment opportunities and carry out assignments and go to places, he's simply ideal in performing tasks. You will find everything you need at the same place.",
+        "user": "Keyuri Ravrani"
+      }
+    ]
+  }
+}
