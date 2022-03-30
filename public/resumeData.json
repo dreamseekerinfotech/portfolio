@@ -126,23 +126,36 @@
   },
   "portfolio": {
     "projects": [
+      
       {
-        "title": "kidconnect",
-        "category": "",
+        "title": "Sports Betting",
+        "category": "Web Development",
+        "image": "wolf777.png",
+        "url": "#"
+      },
+      {
+        "title": "Tigerparrot",
+        "category": "Web Development",
+        "image": "tigerparrot.png",
+        "url": "https://www.tigerparrot.com"
+      },
+      {
+        "title": "kidConnect",
+        "category": "Web Development",
         "image": "kidconnect.png",
         "url": "https://kidconnect.in"
       },
       {
-        "title": "Sports Betting",
-        "category": "",
-        "image": "world777.png",
-        "url": "#"
+        "title": "KidConnect - Parent",
+        "category": "React Native",
+        "image": "kidconnectparent.jpg",
+        "url": "https://play.google.com/store/apps/details?id=com.kidsconnect"
       },
       {
-        "title": "Tigerparrot Kids eCommerce Marketplace",
-        "category": "",
-        "image": "tigerparrot.png",
-        "url": "https://www.tigerparrot.com"
+        "title": "KidConnect - Child App",
+        "category": "React Native",
+        "image": "kidconnectchild.jpg",
+        "url": "https://play.google.com/store/apps/details?id=com.kidsconnect.child"
       }
     ]
   },
